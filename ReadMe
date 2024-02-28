@@ -1,3 +1,7 @@
+# To Run Project right click on Project >> Run as >> Maven Install it will start to executing tc's one by one
+
+####################################################################################################
+Additionally:
 #To Execute Test Cases One By One Just Open Test Cases and right click >> Run as Testng
 #You Can Also Execute Tc's from XML >> Open TestCases.XML >> right click >> Run as Testng
 #Report were created under Test OutPut Folder >> Emailable

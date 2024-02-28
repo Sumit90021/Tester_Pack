@@ -45,7 +45,6 @@ public class Test_Case_3 {
 		driver.findElement(By.xpath("//div[contains(@class,'mktoFieldWrap mktoRequiredField')]//input[@id='Title']")).sendKeys("QA");
 		Thread.sleep(4000);
 		
-		
 		driver.close();//It will close current running window of the Chrome
 		
 		
